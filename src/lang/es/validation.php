@@ -10,6 +10,6 @@ return array(
     'isodate' => 'The value :attribute must be a valid date in ISO 8601 format.',
     'username' => 'The value :attribute must be a valid username.',
     'htmlclean' => 'The value :attribute contains forbidden HTML code.',
-    'password' => ':attribute must contain 6 to 64 characters including at least one digit, one upper case letter, one lower case letter and one special symbol.'
+    'password' => 'La contraseña debe tener de 6 to 64 caracteres incluyendo al menos una letra mayúscula, una minúscula y un símbolo especial.'
 
 );
